@@ -1,4 +1,5 @@
 **Implementación de SPLASH Screen en Ionic**
+
 -Creacion de proyecto Ionic
 <img width="696" height="613" alt="image" src="https://github.com/user-attachments/assets/785c7ebe-a9f2-4b07-a5e2-558f0558a58c" />
 - Compilacion del proyecto
