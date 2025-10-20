@@ -24,6 +24,9 @@ Verificamos que el archivo capacitor.config.ts
 -Generacion del apk
 <img width="575" height="265" alt="image" src="https://github.com/user-attachments/assets/d23f4ab6-7955-4c8c-9f0b-e0c8d7ea7782" />
 - APk funcional
+
+![Imagen de WhatsApp 2025-10-20 a las 00 13 36_efc8e1cd](https://github.com/user-attachments/assets/153b4b0f-ad2c-43c2-be45-50a5b993f770)
+
 <img width="373" height="700" alt="image" src="https://github.com/user-attachments/assets/f7267d3d-1f94-4c7b-b4b4-1bd9c7fc9151" />
 
 ![Imagen de WhatsApp 2025-10-19 a las 23 30 42_782a78a7](https://github.com/user-attachments/assets/38bcde22-8e7c-406d-9537-9e0af60e18db)
