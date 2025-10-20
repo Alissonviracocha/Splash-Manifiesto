@@ -25,5 +25,7 @@ Verificamos que el archivo capacitor.config.ts
 <img width="575" height="265" alt="image" src="https://github.com/user-attachments/assets/d23f4ab6-7955-4c8c-9f0b-e0c8d7ea7782" />
 - APk funcional
 <img width="373" height="700" alt="image" src="https://github.com/user-attachments/assets/f7267d3d-1f94-4c7b-b4b4-1bd9c7fc9151" />
+
 ![Imagen de WhatsApp 2025-10-19 a las 23 30 42_782a78a7](https://github.com/user-attachments/assets/38bcde22-8e7c-406d-9537-9e0af60e18db)
+
 ![Imagen de WhatsApp 2025-10-19 a las 23 30 42_8a1864fe](https://github.com/user-attachments/assets/50fd2f47-e236-4ca1-b3b1-4856e394e8e8)
